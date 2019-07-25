@@ -70,7 +70,7 @@ public class HelloWorld {
 
 //        The
 
-        int three = (int) "three";
+//        int three = (int) "three";
 
 
     }
