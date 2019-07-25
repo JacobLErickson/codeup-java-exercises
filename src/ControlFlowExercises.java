@@ -4,10 +4,10 @@ public class ControlFlowExercises {
     public static void main(String[] args) {
 //
 //  b.
-        int x = 100;
+        long x = 2;
         do {
             System.out.println(x);
-            x -= 5;
-        } while (x >= -10);
+            x *= x;
+        } while (x < 1000000);
     }
 }
